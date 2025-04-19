@@ -1,5 +1,5 @@
 <?php
-namespace App\Commands;
+namespace App\Console\Commands;
 use Illuminate\Console\Command;
 use RecursiveIteratorIterator;
 use RecursiveDirectoryIterator;
